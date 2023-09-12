@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<-----format-1----->
+format-1
 # Hi there, I'm [Name]! 👋
 
 ![Banner Image](banner_image_url_here)
@@ -91,7 +91,7 @@ I'm a passionate **[Job Title / Developer Role]** with experience in **[technolo
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 
-<-----format-2----->
+format-2
 I am Hridoy, currently working as a Software Engineer at the [Com name](#link). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 [![Facebook](https://img.shields.io/badge/-Facebook-67A4AC?style=flat-square&labelColor=ffffff&logo=codersrank&link=https://www.facebook.com/####)](#fb link)
 -->
