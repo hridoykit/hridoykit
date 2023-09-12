@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Hridoy
 ### A front-end developer, tech enthusiast and great learner!
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/montasin-billah-hridoy/)](https://www.linkedin.com/in/montasin-billah-hridoy/)
 
 ## ⚡ Technologies
